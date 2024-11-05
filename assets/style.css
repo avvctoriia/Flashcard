@@ -8,7 +8,7 @@
 
 body {
   background: url(img/bg-desktop-red.webp);
-  font-family: Gluten;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .cartao__conteudo {
     background-color: var(--card-front-color);
