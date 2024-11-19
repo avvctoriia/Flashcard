@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
 
 :root{
   --text-color: #ffffff;
-  --card-front-color: #772D2D;
-  --card-back-color: #772D2D;
+  --card-front-color: #44d4f8;
+  --card-back-color: #4b772d;
 }
 
 body {
   background: url(img/bg-desktop-red.webp);
+  font-family: Granstander;
 }
 .cartao__conteudo {
     background-color: var(--card-front-color);
