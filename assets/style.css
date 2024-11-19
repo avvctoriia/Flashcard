@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
 
 :root{
   --text-color: #ffffff;
@@ -8,7 +7,6 @@
 
 body {
   background: url(img/bg-desktop-red.webp);
-  font-family: Arial, Helvetica, sans-serif;
 }
 .cartao__conteudo {
     background-color: var(--card-front-color);
