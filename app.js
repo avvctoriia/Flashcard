@@ -12,6 +12,10 @@ cartao.innerHTML = `
                     </div>
                 </div>
 `
-let conteiner = document.getElementById('container')
-conteiner.appendChild(cartao)
+let respostaEstaVisivel = false
+function viraCartao(){
+
+}
+let container = document.getElementById('container')
+container.appendChild(cartao)
 }
