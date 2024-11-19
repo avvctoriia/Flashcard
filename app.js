@@ -14,7 +14,7 @@ cartao.innerHTML = `
 `
 let respostaEstaVisivel = false
 function viraCartao(){
-
+   respostaEstaVisivel = !respostaEstaVisivel
 }
 let container = document.getElementById('container')
 container.appendChild(cartao)
